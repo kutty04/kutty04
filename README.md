@@ -95,11 +95,13 @@ const madumitha = {
 ## 📊 GitHub Stats & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=kutty04&show_icons=true&theme=tokyonight" alt="Madumitha's GitHub Stats" height="180" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" height="180" />
   &nbsp;
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=kutty04&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos Per Language" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kutty04&theme=tokyonight" alt="GitHub Streak" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language" height="180" />
+  &nbsp;
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" height="180" />
 </p>
